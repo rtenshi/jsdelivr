@@ -1,0 +1,9 @@
+
+{
+  "packageManager": "github",
+  "name": "mQuery",
+  "repo": "rtenshi/mquery",
+  "files": {
+    "include": ["mQuery.js", "mQuery.min.js"]
+  }
+}
